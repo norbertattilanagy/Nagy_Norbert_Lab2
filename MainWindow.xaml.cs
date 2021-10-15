@@ -24,5 +24,10 @@ namespace Nagy_Norbert_Lab2
         {
             InitializeComponent();
         }
+
+        private void txtQuantity_Copy_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
